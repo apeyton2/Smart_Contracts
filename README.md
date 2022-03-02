@@ -13,4 +13,4 @@ Below we look at the deposit funcion for various ammounts
 
 Lastly we look at the withdrawal functions at work:
 
-![Alt text](image/withrawls.png .png "Title")
+![Alt text](image/withrawls.png "Title")
