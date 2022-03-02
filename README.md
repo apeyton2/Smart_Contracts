@@ -5,5 +5,7 @@ In this project we use Solidity, the Remix IDE and ganache to deploy smart contr
 Above we see the set accounts function working
 
 ![Alt text](image/1ether.png "Title")
+
 ![Alt text](image/5ether.png "Title")
+
 ![Alt text](image/10ether.png "Title")
