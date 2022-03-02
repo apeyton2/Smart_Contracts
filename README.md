@@ -10,5 +10,7 @@ Below we look at the deposit funcion for various ammounts
 5 Ether
 ![Alt text](image/10ether.png "Title")
 10 Ether
-Lastly we look at the withdrawal functions at work
+
+Lastly we look at the withdrawal functions at work:
+
 ![Alt text](image/withrawls.png .png "Title")
